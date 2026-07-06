@@ -1,7 +1,4 @@
-#Проект1 Анализ базы резюме из hh.ru
-
-<img src='img/hhout.png' width=200>
-
+## Проект1 Анализ базы резюме из hh.ru
 ___
 ## Исходные данные
  - Файл с базой резюме из hh.ru:  [https://disk.yandex.ru/d/fTKTyjl9FKE_nQ](https://drive.google.com/file/d/1HxoZ6NNU-tuwNA-fRaRjdopkSUrztWVy/view?usp=sharing)
