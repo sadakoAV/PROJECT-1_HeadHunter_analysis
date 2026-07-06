@@ -1,9 +1,8 @@
 ## Проект1 Анализ базы резюме из hh.ru
 ___
 ## Исходные данные
- - Файл с базой резюме из hh.ru:  [https://disk.yandex.ru/d/fTKTyjl9FKE_nQ](https://drive.google.com/file/d/1HxoZ6NNU-tuwNA-fRaRjdopkSUrztWVy/view?usp=sharing)
-
- - Файл с курсами валют: [https://disk.yandex.ru/d/2-ydY63jhewVcg](https://drive.google.com/file/d/1px7xNLchf0uk5Jzkx3nQumDtmqnG0SOS/view?usp=sharing)
+ - Файл с базой резюме из hh.ru:  [https://drive.google.com/file/d/1HxoZ6NNU-tuwNA-fRaRjdopkSUrztWVy/view?usp=sharing
+ - Файл с курсами валют: [https://drive.google.com/file/d/1px7xNLchf0uk5Jzkx3nQumDtmqnG0SOS/view?usp=sharing
 ___
 ## Описание проблемы
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Данные в исходном файле с базой резюме не предобработаны и не проанализированы. 
